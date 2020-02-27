@@ -1,1 +1,1 @@
-@java -cp blockchain-nb.jar;. app.blockchain.Main 
+@java -cp blockchain-nb.jar;*;. app.blockchain.Main 
